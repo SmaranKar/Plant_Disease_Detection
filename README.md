@@ -1,4 +1,4 @@
-## Plant Disease Detector
+## Plant Disease Detector by Smaran
 <br>
 <img src="app/static/SS.png">
 <br>
